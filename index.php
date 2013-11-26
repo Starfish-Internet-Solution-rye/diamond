@@ -13,6 +13,7 @@
 </head>
 <body>
 	<div id="preLoaderBg">
+	add some shit here
 		<div id="status">
 			<h1>128NIVELHILLS.COM</h1>
 		</div>
