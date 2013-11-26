@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head>ass
 	<meta charset="utf-8">
 	<title>Diamond Highlands</title>
 	<link rel="stylesheet" href="resources/stylesheets/superslides.css">
